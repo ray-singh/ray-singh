@@ -1,4 +1,4 @@
-## HI!
+## 👋 Hi
 
 Welcome to my GitHub! I'm a 3rd Year Computer Science student at Michigan State University. I’m passionate about building tools that make complex tasks simpler. My experience spans software engineering, data engineering, and machine learning.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a 3rd Year Computer Science student at Michigan State 
 
 # 🚧 Under Construction
 - UI updates for Doxly, an AI-powered PDF interaction system
-- Personl website
+- Personal website
 
 # 🌎 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/rayansh-singh)
