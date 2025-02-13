@@ -1,6 +1,6 @@
 ## HI!
 
-Welcome to my GitHub! I'm a 3rd Year Computer Science student at Michigan State University. I’m passionate about building tools that make complex tasks simpler, from financial data analysis to creating intelligent systems. My experience spans software engineering, data engineering, and machine learning.
+Welcome to my GitHub! I'm a 3rd Year Computer Science student at Michigan State University. I’m passionate about building tools that make complex tasks simpler. My experience spans software engineering, data engineering, and machine learning.
 
 # 🌱 What I'm Learning
 - Full-stack engineering, focusing on back-end development and cloud technologies like AWS
