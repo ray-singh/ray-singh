@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a 3rd Year Computer Science student at Michigan State 
 - Expanding my proficiency in machine learning with PyTorch and scikit-learn, building algorithms that solve real-world problems
 - Building financial tools with Python and exploring how data analysis can drive smarter decisions
 
-# 🔮 My Skill
+# 🔮 My Skills
 - Languages: Python, C/C++, JavaScript, TypeScript, ARM Assembly, HTML/CSS
 - Databases: MSQL, PostgreSQL, Oracle, and Google Firebase
 - Machine Learning/ Data Analysis: NumPy, Pandas, Matlplotlib, scikit-learn, PyTorch, and TensorFlow
