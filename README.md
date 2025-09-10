@@ -1,4 +1,4 @@
-## 👋 Hi
+## Hi there! I'm Ray
 
 Welcome to my GitHub! I'm a 3rd Year Computer Science student at Michigan State University. I’m passionate about building tools that make complex tasks simpler. My experience spans software engineering, data engineering, and machine learning.
 
