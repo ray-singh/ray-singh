@@ -42,4 +42,4 @@ Ever since I was a child, I've loved taking things apart to figure out how they 
 * Self-learning AI tools (LangGraph, HuggingFace, etc)
 * Developing my Java skills
 * Learning Kubernetes
-* Keeping up with the latest tennis tournament
+* Keeping up with the latest tennis tournament!
