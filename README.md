@@ -6,6 +6,7 @@ class Rayansh:
     def __init__(self):
         self.age = 20
         self.traits = ["collaborative", "creative", "curious"]
+        self.interests = ["backend engineering", "machine learning", "data pipelines"]
         self.hobbies = ["art", "tennis", "photography", "music", "travelling"]
 ```
 
