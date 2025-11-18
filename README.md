@@ -12,11 +12,11 @@ class Rayansh:
 
 ## 💼 Experience
 * Software Engineering Intern at Delta Dental
-    * Domain-driven design, front end engineering, MongoDB
+    * TypeScript, Angular, MongoDB, Testim.io
 * Software Engineering Fellow at Headstarter
-    * Full stack engineering, AWS, OpenAI API
+    * Next.js, Node.js, React, AWS, OpenAI API
 * Data Engineering Intern at Deloitte Consulting
-    * Data modeling, ETL pipelines, data architecture
+    * Data modeling, ETL pipelines, data architecture, PySpark, Excel
 * Undergraduate TA at MSU
     * Communication, leadership, team management
 
