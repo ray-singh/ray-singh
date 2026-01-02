@@ -6,7 +6,7 @@ class Rayansh:
     def __init__(self):
         self.age = 20
         self.traits = ["collaborative", "creative", "curious"]
-        self.interests = ["backend engineering", "machine learning", "data pipelines"]
+        self.interests = ["backend engineering", "natural language processing", "large language models", "data pipelines"]
         self.hobbies = ["art", "tennis", "photography", "music", "travelling"]
 ```
 
@@ -66,7 +66,6 @@ class Rayansh:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🔮 What am I up to?
-* Working part-time at Delta Dental
 * Self-learning AI tools (LangGraph, HuggingFace, etc)
 * Developing my Java skills
 * Learning Kubernetes
