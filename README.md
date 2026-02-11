@@ -1,18 +1,14 @@
-## 🧑‍💻 Hi there! I'm Ray
-My name is Rayansh Singh. I'm a 4th year Computer Science student at Michigan State Univeristy.
-
 ```python
-class Rayansh:
+class Ray:
     def __init__(self):
         self.age = 20
-        self.traits = ["collaborative", "creative", "curious"]
-        self.interests = ["backend engineering", "natural language processing", "data pipelines"]
+        self.interests = ["backend engineering", "machine learning", "data pipelines"]
         self.hobbies = ["art", "tennis", "photography", "music", "travelling"]
 ```
 
 ## 💼 Experience
 * Software Engineering Intern at Delta Dental
-    * TypeScript, Angular, MongoDB, Testim.io
+    * TypeScript, Angular, MongoDB, Testim.io, Java
 * Software Engineering Fellow at Headstarter
     * Next.js, Node.js, React, AWS, OpenAI API
 * Data Engineering Intern at Deloitte Consulting
@@ -67,6 +63,5 @@ class Rayansh:
 
 ## 🔮 What am I up to?
 * Self-learning AI tools (LangGraph, HuggingFace, etc)
-* Developing my Java skills
 * Learning Kubernetes
 * Keeping up with the latest tennis tournament!
