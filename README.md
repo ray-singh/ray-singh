@@ -1,7 +1,7 @@
 ```python
 class Ray:
     def __init__(self):
-        self.age = 20
+        self.age = 21
         self.interests = ["backend engineering", "machine learning", "data pipelines"]
         self.hobbies = ["art", "tennis", "photography", "music", "travelling"]
 ```
@@ -62,6 +62,6 @@ class Ray:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🔮 What am I up to?
-* Self-learning AI tools (LangGraph, HuggingFace, etc)
-* Learning Kubernetes
+* About to start an Applied AI internship at Delta Dental
+* Learning how to cook
 * Keeping up with the latest tennis tournament!
