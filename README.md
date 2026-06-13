@@ -7,6 +7,9 @@ class Ray:
 ```
 
 ## 💼 Experience
+* AI Engineering Intern at Delta Dental
+* ML Research at MSU
+    * PyTorch, PyMC, Deep Learning     
 * Software Engineering Intern at Delta Dental
     * TypeScript, Angular, MongoDB, Testim.io, Java
 * Software Engineering Fellow at Headstarter
@@ -62,6 +65,5 @@ class Ray:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🔮 What am I up to?
-* About to start an Applied AI internship at Delta Dental
-* Learning how to cook
+* Building Aphex
 * Keeping up with the latest tennis tournament!
