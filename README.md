@@ -9,7 +9,9 @@ class Ray:
 ## 💼 Experience
 * AI Engineering Intern at Delta Dental
 * ML Research at MSU
-    * PyTorch, PyMC, Deep Learning     
+    * PyTorch, PyMC, Deep Learning
+* Software Engineer at MSUFCU (University Capstone)
+    * React.js, Flask, Web3.py, Docker, PostgreSQL
 * Software Engineering Intern at Delta Dental
     * TypeScript, Angular, MongoDB, Testim.io, Java
 * Software Engineering Fellow at Headstarter
