@@ -1,17 +1,19 @@
 hi, i'm ray
 
-software engineer. occasional researcher.
+single-node implementation. questionable fault tolerance.
 
-mostly interested in inference performance, GPUs, and model reliability.
+software engineer & occasional researcher.
 
-previous side quests:
-- LLM calibration & decision-making: studied how uncertainty estimates interact with downstream risk controllers. ICAIF '26.
+interested in inference performance, GPUs, and model reliability.
+
+previous quests:
+- LLM calibration: studied how uncertainty estimates interact with downstream risk controllers. ICAIF '26.
 - ML infra: LLM serving, retrieval systems, and production AI applications used by 3,000+ people.
 - agent reliability: investigated how quantization breaks multi-turn tool-calling. NeurIPS Workshop '26.
 
-current side quests:
+current quests:
 - GPU programming
 - multimodal learning
-- tennis
+- biking
 
-some papers, some code, plenty of unfinished experiments.
+always open to collaboration
