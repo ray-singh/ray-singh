@@ -1,7 +1,5 @@
 hi, i'm ray
 
-single-node implementation. questionable fault tolerance.
-
 software engineer & occasional researcher.
 
 interested in inference performance, GPUs, and model reliability.
